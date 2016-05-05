@@ -1,179 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="184fb95e-dd91-4aff-85c0-42eab07f337c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/P50501-181419.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/P50501-181419.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/school_logo.png" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/school_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/test.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/test.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/1443463494_eye_black.png" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/1443463494_eye_black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/P50501-181419.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/P50501-181419.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/alex_us.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/alex_us.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_8AHX1ir.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_8AHX1ir.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_RnpgkYK.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_RnpgkYK.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_d9AhTqd.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_d9AhTqd.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_dWyvfRy.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_dWyvfRy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_hsazonT.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_hsazonT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_mwQwaE5.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_mwQwaE5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_y47Vf48.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50501-181419_y47Vf48.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50503-143824.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/P50503-143824.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/监控流程图.png" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/bbs_summary/监控流程图.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/1443463494_eye_black.png" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/1443463494_eye_black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/P50501-181419.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/P50501-181419.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/alex_us.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/alex_us.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_8AHX1ir.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_8AHX1ir.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_RnpgkYK.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_RnpgkYK.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_d9AhTqd.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_d9AhTqd.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_dWyvfRy.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_dWyvfRy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_hsazonT.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_hsazonT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_mwQwaE5.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_mwQwaE5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_y47Vf48.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50501-181419_y47Vf48.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50503-143824.jpg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/P50503-143824.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/监控流程图.png" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/bbs_summary/监控流程图.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/999" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/999" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/cd" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/cd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/.name" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/OldboyBBS2.iml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/OldboyBBS2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/dictionaries/jieli.xml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/dictionaries/jieli.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/encodings.xml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/misc.xml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/modules.xml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/vcs.xml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/settings.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/urls.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/wsgi.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/OldboyBBS2/wsgi.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/admin.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0002_auto_20150909_0238.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0002_auto_20150909_0238.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0003_auto_20150909_0402.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0003_auto_20150909_0402.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0004_auto_20150909_0403.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0004_auto_20150909_0403.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0005_auto_20150909_0405.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0005_auto_20150909_0405.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0006_auto_20150909_0409.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0006_auto_20150909_0409.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0007_auto_20150909_0412.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0007_auto_20150909_0412.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0008_userprofile_friends.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0008_userprofile_friends.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0009_usergroup_online.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0009_usergroup_online.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0010_auto_20151015_1105.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/0010_auto_20151015_1105.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/models.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/recursive.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/recursive.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/recursive_test.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/recursive_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/templatetags/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/templatetags/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/templatetags/custom.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/templatetags/custom.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/tests.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/utils.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/views.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/bbs/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/css/bootstrap.vertical-tabs.css" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/css/bootstrap.vertical-tabs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/css/custom.css" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/HELP-US-OUT.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/Alexander" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/statics/imgs/upload/Alexander" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/1024.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/1024.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/article.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/article.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/chat/dashboard.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/chat/dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/create_bbs.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/create_bbs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/life.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/life.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/login.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/tech.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/tech.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/web_qq/dashboard.html" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/templates/web_qq/dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/Alexander" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/upload/Alexander" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/admin.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/migrations/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/models.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/tests.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/urls.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/utils.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/views.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/聊天室需求" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_chat/聊天室需求" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/admin.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/migrations/__init__.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/models.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/tests.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/urls.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/utils.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/views.py" afterPath="$PROJECT_DIR$/py_training/OldboyBBS2/web_qq/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/readme.md" afterPath="$PROJECT_DIR$/py_training/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/.idea/.name" afterPath="$PROJECT_DIR$/py_training/sample_code/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/.idea/day5-atm.iml" afterPath="$PROJECT_DIR$/py_training/sample_code/.idea/day5-atm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/.idea/encodings.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/.idea/misc.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/.idea/modules.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/.idea/workspace.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/.name" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/day5-atm.iml" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/day5-atm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/encodings.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/misc.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/modules.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/README" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/bin/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/bin/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/bin/atm.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/bin/atm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/bin/manage.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/bin/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/conf/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/conf/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/conf/settings.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/conf/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/accounts.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/accounts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/auth.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/auth.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/db_handler.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/db_handler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/logger.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/logger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/main.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/transaction.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/core/transaction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/db/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/db/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/db/account_sample.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/db/account_sample.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/db/accounts/1234.json" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/db/accounts/1234.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/log/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/log/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/log/access.log" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/log/access.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/log/transactions.log" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/atm/log/transactions.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/day5-atm/shopping_mall/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/day5-atm/shopping_mall/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/ftpClient.py" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpClient/ftpClient.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/__init__.py" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/account.py" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/account.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/ftpServer.py" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/ftpServer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/progress_test.py" afterPath="$PROJECT_DIR$/py_training/sample_code/ftp_sample/ftpServer/progress_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/py_training/sample_code/计算器/caculator.py" afterPath="$PROJECT_DIR$/py_training/sample_code/计算器/caculator.py" />
-    </list>
+    <list default="true" id="184fb95e-dd91-4aff-85c0-42eab07f337c" name="Default" comment="" />
     <ignored path="s12.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -326,8 +154,8 @@
       <file leaf-file-name="gevent_client_side.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day9/gevent_client_side.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6905371">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.29680365">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -345,7 +173,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/py_training" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Day7/dict_test.py" root0="SKIP_HIGHLIGHTING" />
@@ -413,7 +241,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="232" />
+    <option name="y" value="99" />
     <option name="width" value="1232" />
     <option name="height" value="777" />
   </component>
@@ -464,7 +293,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches">
         <subPane>
           <PATH>
@@ -483,29 +311,30 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="s12" />
+              <option name="myItemId" value="2016-python-oldboy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="s12" />
+              <option name="myItemId" value="2016-python-oldboy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="s12" />
+              <option name="myItemId" value="2016-python-oldboy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../job/elearning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python&#10;CoffeeScriptLiterate&#10;Apple JS&#10;DjangoTemplate" />
   </component>
@@ -868,28 +697,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1232" height="777" extended-state="0" />
+    <frame x="232" y="99" width="1232" height="777" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25462186" sideWeight="0.49263158" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26890758" sideWeight="0.49263158" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2671533" sideWeight="0.5046492" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.356623" sideWeight="0.49366018" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38832116" sideWeight="0.4953508" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3202329" sideWeight="0.49704143" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2786753" sideWeight="0.50736845" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38832116" sideWeight="0.4953508" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3240876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1174,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1217,7 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1225,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8265896">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,7 +1059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44520548">
           <caret line="13" column="31" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,7 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1257,7 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1369863">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,7 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34246576">
           <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1273,9 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#23#34#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1283,7 +1101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1299,8 +1116,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day9/gevent_client_side.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6905371">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.29680365">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding />
         </state>
       </provider>
