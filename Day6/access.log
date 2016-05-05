@@ -1,0 +1,16 @@
+2016-03-04 22:15:12,012 - TEST-LOG - WARNING - warn message
+2016-03-04 22:15:12,012 - TEST-LOG - ERROR - error message
+2016-03-04 22:15:12,012 - TEST-LOG - CRITICAL - critical message
+2016-03-04 22:17:34,652 - TEST-LOG - WARNING - warn message
+2016-03-04 22:17:34,653 - TEST-LOG - ERROR - error message
+2016-03-04 22:17:34,653 - TEST-LOG - CRITICAL - critical message
+2016-03-04 22:17:49,061 - TEST-LOG - WARNING - warn message
+2016-03-04 22:17:49,061 - TEST-LOG - ERROR - error message
+2016-03-04 22:17:49,061 - TEST-LOG - CRITICAL - critical message
+2016-03-04 22:17:55,373 - TEST-LOG - WARNING - warn message
+2016-03-04 22:17:55,373 - TEST-LOG - ERROR - error message
+2016-03-04 22:17:55,373 - TEST-LOG - CRITICAL - critical message
+2016-03-04 22:18:03,141 - TEST-LOG - ERROR - error message
+2016-03-04 22:18:03,141 - TEST-LOG - CRITICAL - critical message
+2016-03-04 22:18:29,781 - TEST-LOG - ERROR - error message
+2016-03-04 22:18:29,781 - TEST-LOG - CRITICAL - critical message
